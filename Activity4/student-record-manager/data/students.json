@@ -1,0 +1,33 @@
+[
+    {
+        "student_id": "123456",
+        "name": ["John", "Doe"],
+        "class_standing": 85.5,
+        "major_exam": 90.0
+    },
+    {
+        "student_id": "234567",
+        "name": ["Jane", "Smith"],
+        "class_standing": 92.0,
+        "major_exam": 88.5
+    },
+    {
+        "student_id": "345678",
+        "name": ["Bob", "Johnson"],
+        "class_standing": 78.5,
+        "major_exam": 82.0
+    },
+    {
+        "student_id": "456789",
+        "name": ["Alice", "Brown"],
+        "class_standing": 95.0,
+        "major_exam": 94.0
+    },
+    {
+        "student_id": "567890",
+        "name": ["Mike", "Wilson"],
+        "class_standing": 88.0,
+        "major_exam": 86.5
+    }
+]
+
