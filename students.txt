@@ -1,0 +1,5 @@
+Name: san jose, hanz
+Age: 20
+Contact: 12
+Course: BSITcst
+--------------------------------------------------

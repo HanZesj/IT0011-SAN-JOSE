@@ -1,0 +1,10 @@
+2021-0001,John Smith,BSIT,1
+2021-0002,Maria Garcia,BSCS,2
+2021-0003,James Wilson,BSIT,3
+2021-0004,Sarah Lee,BSCS,1
+2021-0005,Michael Brown,BSIT,2
+2021-0006,Emma Davis,BSCS,4
+2021-0007,David Martinez,BSIT,1
+2021-0008,Lisa Anderson,BSCS,3
+2021-0009,Robert Taylor,BSIT,2
+2021-0010,Jennifer White,BSCS,1
